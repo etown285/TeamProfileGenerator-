@@ -1,0 +1,21 @@
+navbar-brand {
+
+    font-size: 2rem;
+}
+
+.card {
+    margin: 2%;
+    float: none;
+    margin-top: 5%;
+    border: none !important;
+    box-shadow: 20px 15px #66b2b2;
+}
+
+.card-body {
+    background-color: rgb(220,220,220);
+}
+
+li {
+    border-style: solid;
+    border-color: rgb(220,220,220);
+}
