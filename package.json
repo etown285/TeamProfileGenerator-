@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/etown285/TeamProfileGenerator-/issues"
   },
-  "homepage": "https://github.com/etown285/TeamProfileGenerator-#readme"
+  "homepage": "https://github.com/etown285/TeamProfileGenerator-#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  }
 }
