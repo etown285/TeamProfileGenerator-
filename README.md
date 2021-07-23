@@ -7,9 +7,12 @@
 
 ### Project Overview
 
-* Uses Node.js and Inquirer 
-* Allows user to input team members and there select role and converts into HTML and CSS. 
-* 
+* Uses Node.js and Inquirer.
+* Application is split into 3 roles Manager, Engineer, and Intern. 
+* Allows user to input team members and there select role and converts into HTML and CSS in command line. 
+* After data input a webpage displays the inputed data. 
+* Links are clickable and allows the user to contact the team member and view their github profile. 
+
 
 ## Usage
 
