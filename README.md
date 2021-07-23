@@ -16,10 +16,11 @@
 
 ## Usage
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/TeamProfileGenerator-/blob/main/assets/Screenshot%202021-07-22%20at%2021-59-06%20Team%20Profile%20Generator.png)
 
 ## Links
 
+* Video Demonstration URL: (https://drive.google.com/file/d/1UWk9gJwKxI80NkRWBTywsz6HRbF5R_w4/view)
 
 * GitHub Repository URL: (https://github.com/etown285/TeamProfileGenerator-)
 
